@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies Private Limited, Banglore, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226</h3>
+			<h2>Welcome To Google Technologies Private Limited, Chennai,Karnataka.</h2>
+			<h3>Contact @ +91-9000000008</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2024</p>
+		<p>&copy; Google Technologies 2024</p>
 	</footer>
 </div>
 
