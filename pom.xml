@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>java-web-app</artifactId>
+	<artifactId>java-web-app-dockerbuild</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
 	
@@ -116,15 +116,8 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.8.1</version>
-				<inherited>true</inherited>
-				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
-				</configuration>
+				<version>3.8.1</version>				
 			</plugin>
 		</plugins>
-	</build>
-
-	
+	</build>	
 </project>
